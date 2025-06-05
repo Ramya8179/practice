@@ -7,5 +7,7 @@ public class  Demo
 		String name="Raju";
 		int age=26;
 		String sex="Male";
+		String profession="Job";
+
 	}
 }
